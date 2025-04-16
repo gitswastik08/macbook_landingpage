@@ -30,10 +30,10 @@ body {
   left: 50%;
   width: 120%;
   height: 120%;
-  background: radial-gradient(circle, #ff00cc, #3333ff, #00ffcc);
+  background: radial-gradient(circle, #ff00cc, #3333ff,#00ffcc);
   transform: translate(-50%, -50%);
   z-index: -1;
-  filter: blur(40px);
+  filter: blur(50px);
   border-radius: 50%;
   opacity: 0.7;
   animation: 3s infinite ease-in-out;

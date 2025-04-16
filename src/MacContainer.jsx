@@ -24,7 +24,7 @@ let texture = useTexture("./red.jpg")
   })
 
   return (
-    <group position={[0, -5, 20]}>
+    <group position={[1, -10, 40]}>
       <primitive object={model.scene} />
     </group>
   );

@@ -31,14 +31,15 @@ const App = () => {
           </h4>
         </div>
       </div>
-      <div className="absolute left-[50%] translate-x-[-50%] top-[14.5vh] flex flex-col items-center gap-1 text-white">
-        <h3 className="glow text-6xl tracking-tighter font-[300]">
+      <div className="absolute left-[50%] translate-x-[-50%] top-[13.5vh] flex flex-col items-center gap-1  text-white">
+        <h3 className="glow  tracking-tighter font-[300]">
           macbook pro.
         </h3>
-        <h5 className="text-base">Oh so pro!</h5>
-        <p className="text-center w-3/6 text-xs">
+        <h5 className="text-2xl mb-3">Oh so pro!</h5>
+        <p className="text-center w-3/6 text-sm text-[#ffffff99]">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt a
-          repellat nihil .
+          repellat nihil hukhu
+           .
         </p>
       </div>
       <Canvas camera={{ fov: 20, position: [10, 0, 220] }}>

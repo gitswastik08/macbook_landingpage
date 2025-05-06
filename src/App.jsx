@@ -2,7 +2,7 @@ import "remixicon/fonts/remixicon.css";
 import React, { useEffect } from "react";
 import "./style.css";
 import Lenis from "@studio-freight/lenis/types";
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Homepage from "./pages/Homepage";
 import { div } from "three/tsl";
 import Secondpage from "./pages/Secondpage";

@@ -9,7 +9,7 @@ import Secondpage from "./pages/Secondpage";
 import Thirdpage from "./pages/Thirdpage";
 import Fourthpage from "./pages/Fourthpage";
 import Fifthpage from "./pages/Fifthpage";
-import Footer from "./pages/footer";
+import Footer from "./pages/Footer";
 import Sixthpage from "./pages/Sixthpage";
 const App = () => {
  

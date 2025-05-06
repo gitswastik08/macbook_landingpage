@@ -1,12 +1,14 @@
 
-@font-face {
-  font-family: macFont;
-  src: url("../assets/fonts/sf-pro-display_regular.woff2");
-}
+
 
 @font-face {
   font-family: macFontSemibold;
-  src: url('../assets/fonts/sf-pro-display_semibold.woff2');
+  src: url('/assets/fonts/sf-pro-display_semibold.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'macFont';
+  src: url('/assets/fonts/sf-pro-display_regular.woff2') format('woff2');
 }
 
 ::-webkit-scrollbar{

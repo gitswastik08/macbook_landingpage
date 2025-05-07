@@ -16,10 +16,7 @@ const Homepage = () => {
           src="https://www.apple.com/in/macbook-pro/images/overview/welcome/hero_apple_intelligence_headline__d3q0g47xl682_medium_2x.png"
           alt=""
         />
-        <p className="text-center w-3/6 text-sm text-[#ffffff99]">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt a
-          repellat nihil hukhu .
-        </p>
+     
       </div>
       <Canvas camera={{ fov: 20, position: [10, 0, 220] }}>
         <Environment

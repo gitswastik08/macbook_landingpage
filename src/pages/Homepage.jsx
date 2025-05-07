@@ -20,7 +20,7 @@ const Homepage = () => {
       </div>
 
       {/* Canvas with Loader inside */}
-      <div className="w-full h-screen">
+      <div className="w-full h-screen relative z-10">
         <Canvas camera={{ fov: 20, position: [10, 0, 220] }}>
           <Suspense fallback={<Loader />}>
             <Environment

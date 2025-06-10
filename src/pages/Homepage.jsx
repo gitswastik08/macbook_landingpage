@@ -9,9 +9,7 @@ const Homepage = () => {
     <div className="homepage w-full h-full relative">
       {/* Top Text & Image */}
       <div className="w-full absolute left-[50%] translate-x-[-50%] top-[13.5vh] flex flex-col items-center justify-start gap-1 text-white z-10 pointer-events-none">
-        <div className="absolute top-1">
-          <h1 className="glow">macbook pro</h1>
-        </div>
+        
         <img
           className="w-[80vw]"
           src="https://www.apple.com/in/macbook-pro/images/overview/welcome/hero_apple_intelligence_headline__d3q0g47xl682_medium_2x.png"
